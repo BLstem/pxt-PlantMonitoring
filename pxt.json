@@ -4,7 +4,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "esp8266": "github:BLStem/pxt-IoT",
+        "dht22": "github:DoraLC/pxt-DHT22"
     },
     "files": [
         "README.md",
@@ -13,6 +15,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
