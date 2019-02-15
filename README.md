@@ -11,5 +11,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-github:DoraLC/pxt-PlantMonitoring
+github:BLstem/pxt-PlantMonitoring
 ```
